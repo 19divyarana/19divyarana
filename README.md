@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Java Full Stack Developer | AIML Student | Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+in+Progress;Spring+Boot+%7C+React+%7C+MySQL;DSA+%7C+Problem+Solving;Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=1000&lines=☕+Java+Full+Stack+Developer+Journey;🤖+AI+Engineering+Enthusiast;📊+Data+Analysis+Explorer;🧠+Machine+Learning+%7C+LLMs+%7C+GenAI;⚡+Spring+Boot+%7C+React+%7C+MySQL;📈+SQL+%7C+Power+BI+%7C+Python;🚀+Building+Projects+%26+Learning+in+Public" />
 </p>
 
 ---
