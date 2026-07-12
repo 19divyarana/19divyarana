@@ -1,29 +1,205 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Divya Rana</h1>
+<h3 align="center">Aspiring Java Full Stack Developer | AIML Student | Lifelong Learner 🚀</h3>
 
-🔭 I’m currently AIML student at Malla Reddy University 
-I'm a passionate developer who loves turning ideas into reality through code.
-Currently diving deep into web development, machine learning, and building creative real-world projects. 🚀
-
-🌟 Always curious to learn new technologies and challenge myself.
-
-🛠️ Building full-stack web apps, smart tools, and innovative solutions.
-
-🎯 Focused on writing clean, efficient, and scalable code.
-
-✨ I believe in continuous growth, collaboration, and making tech beautiful and useful.
-
-📚 Currently exploring: React.js, Next.js, Tailwind CSS, Python, ML algorithms, and cloud deployment.
-
-Let's connect, collaborate, and create amazing things together! 🤝
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=19divyarana&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=19divyarana&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=19divyarana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer+in+Progress;Spring+Boot+%7C+React+%7C+MySQL;DSA+%7C+Problem+Solving;Building+Projects+Every+Day" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=19divyarana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 B.Tech CSE (AI & ML) Student
+
+☕ Currently mastering **Java Full Stack Development**
+
+🌱 Learning **Spring Boot, React, MySQL & DSA**
+
+💻 Passionate about solving real-world problems through technology
+
+🚀 Goal: Become a Software Engineer at a Product-Based Company
+
+📚 Believer in *"Learn • Build • Share • Repeat."*
+
+---
+
+# 🚀 Current Learning Roadmap
+
+```text
+Java Basics
+     │
+     ▼
+Object-Oriented Programming
+     │
+     ▼
+Collections Framework
+     │
+     ▼
+Exception Handling
+     │
+     ▼
+Multithreading
+     │
+     ▼
+Java 8 Features
+     │
+     ▼
+JDBC
+     │
+     ▼
+MySQL
+     │
+     ▼
+Hibernate & JPA
+     │
+     ▼
+Spring Framework
+     │
+     ▼
+Spring Boot
+     │
+     ▼
+REST APIs
+     │
+     ▼
+React.js
+     │
+     ▼
+Git & GitHub
+     │
+     ▼
+Deployment
+     │
+     ▼
+Java Full Stack Developer 🎉
+```
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman" />
+</p>
+
+---
+
+# 📌 Featured Repositories
+
+⭐ Java Programming
+
+⭐ Spring Boot Projects
+
+⭐ Data Structures & Algorithms
+
+⭐ SQL Practice
+
+⭐ Frontend Projects
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java
+- ✅ Learn Spring Boot
+- ✅ Build 10+ Backend Projects
+- ✅ Solve 500+ DSA Problems
+- ✅ Master React
+- ✅ Learn System Design
+- ✅ Deploy Full Stack Applications
+- ✅ Land a Software Engineering Internship
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+✨ Building Today for a Better Tomorrow ✨
+
+</h3>
