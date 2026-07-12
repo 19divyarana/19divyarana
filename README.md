@@ -129,9 +129,9 @@ Java Full Stack Developer 🎉
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=19divyarana&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19divyarana&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -141,21 +141,12 @@ Java Full Stack Developer 🎉
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=19divyarana&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🎯 2026 Goals
 
@@ -174,27 +165,17 @@ Java Full Stack Developer 🎉
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/divya-rana-a4634833b/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ranadivya2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
----
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
 
 ---
 
