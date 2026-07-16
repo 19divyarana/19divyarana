@@ -113,15 +113,11 @@ Java Full Stack Developer 🎉
 
 # 📌 Featured Repositories
 
-⭐ Java Programming
+⭐ Java full stack 
 
-⭐ Spring Boot Projects
+⭐ Ai-engineering portfolio
 
-⭐ Data Structures & Algorithms
-
-⭐ SQL Practice
-
-⭐ Frontend Projects
+⭐ Data analysis portfolio
 
 
 # 🎯 2026 Goals
